@@ -1,0 +1,12 @@
+
+{
+  "users": {},
+  "entreprises": {},
+  "vehiclesShop": [
+    {"model":"Crown Victoria","price":12000},
+    {"model":"Charger 2018","price":18500},
+    {"model":"Explorer 2020","price":22000},
+    {"model":"Camaro Civile","price":26000}
+  ],
+  "history": []
+}
