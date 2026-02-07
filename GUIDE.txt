@@ -1,0 +1,68 @@
+
+🔥 TON SYSTÈME = COMME UN VRAI SERVEUR RP 🔥
+
+PHILOSOPHIE :
+- Fun → argent qui bouge vite
+- Réaliste → taxes + salaires cohérents
+- Entreprises sérieuses
+- STAFF contrôle tout
+
+--------------------------------------------
+
+🧠 ENTREPRISES
+
+1) Joueur demande création  
+2) STAFF valide  
+3) Patron peut :
+
+- recruter employés  
+- définir salaire  
+- payer depuis solde entreprise  
+- gérer finances  
+- acheter véhicules pro
+
+--------------------------------------------
+
+💰 ÉCONOMIE
+
+- Payday auto  
+- Bonus aléatoires  
+- Taxes  
+- Banque + liquide  
+- Concession modifiable
+
+--------------------------------------------
+
+👑 STAFF PEUT
+
+- valider entreprise  
+- give argent  
+- ajouter véhicules  
+- audit comptes  
+- logs complets
+
+--------------------------------------------
+
+🚀 HÉBERGEMENT GRATUIT
+
+RENDER :
+
+npm install
+npm start
+
+NODE_VERSION=18
+
+--------------------------------------------
+
+🎯 PROCHAINES ÉVOLUTIONS POSSIBLES
+
+- MDT Police  
+- Amendes réelles  
+- Fourrière  
+- Immobilier  
+- Inventaire  
+- Logs arrestations ERLC
+
+--------------------------------------------
+
+TU AS UNE BASE PRO 🔥

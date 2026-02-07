@@ -1,0 +1,41 @@
+
+{
+  "token": "TON_TOKEN",
+  "clientId": "ID_BOT",
+  "guildId": "ID_SERVEUR",
+
+  "erlc": {
+    "serverKey": "CLE_API_ERLC",
+    "refresh": 40
+  },
+
+  "economy": {
+    "startMoney": 3500,
+    "paydayMinutes": 25,
+    "minSalary": 800,
+    "maxSalary": 2600,
+    "tax": 0.06
+  },
+
+  "channels": {
+    "logs": "ID_LOGS",
+    "economy": "ID_ECO",
+    "staff": "ID_STAFF",
+    "entrepriseCategory": "ID_CAT_ENT",
+    "ticketsCategory": "ID_CAT_TICKETS",
+    "sessions": "ID_SESSIONS"
+  },
+
+  "roles": {
+    "owner": "ID_OWNER",
+    "admin": "ID_ADMIN",
+    "staff": "ID_STAFF",
+    "patron": "ID_PATRON",
+    "employee": "ID_EMPLOYE"
+  },
+
+  "style": {
+    "color": "#0a2eff",
+    "footer": "New York RP • Mega Economy"
+  }
+}
